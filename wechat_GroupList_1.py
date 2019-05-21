@@ -42,9 +42,6 @@ wb.save(filename='StudentList.xlsx')
 
 
 
-
-
-
 # with open('22.txt', 'a', encoding='utf-8')as f:
 #     ChatRoom = itchat.update_chatroom(getroom_message('庆典联络组'), detailedMember=True)
 #     for i in ChatRoom['MemberList']:
